@@ -1,6 +1,6 @@
 {
   "name": "generator-rv",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "生成 react 和 vue 的模版",
   "files": [
     "app"
